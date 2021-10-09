@@ -10,10 +10,6 @@ export default function Card({lng,lat}){
                 
             </div>
             </div>
-        // <div className="card">
-        //     <h3>Location Details</h3>
-        //     <span>{lat}</span><br/>
-        //     <span>{lng}</span>
-        // </div>
+      
     )
 }
